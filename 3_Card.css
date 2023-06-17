@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+
+.card{
+    border: 3px solid black;
+    height:730px;
+}
+
+.container{
+    border: 3px solid rgb(126, 125, 125);
+    margin: 5px;
+    width: 320px;
+    height: 96%;
+}
+
+.con1{
+    padding-top: 3px;
+    text-align: center;
+}
+
+.col-1{
+    color: #5856d6;
+    font-weight: 900;
+    width: 150px;
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-bottom: 6px;  
+}
+
+.col-2{
+    color: rgb(75, 75, 75);
+    padding-top: 6px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+}
+
+.spec2{
+    padding-bottom: 22px;
+}
+
+.spec{
+    padding-bottom: 40px;
+}
+
+.con2{
+    float: left;
+}
+
+.con3{
+    float: right;
+    margin-right: 15px;
+}

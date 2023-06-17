@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color:black;
+}
+
+.slide{
+    background-color: #303030;
+    width: 165px;
+    height: 750px;
+    border: 2px solid black;
+    float: left;
+}
+
+.decript{
+    padding-top: 10px;
+    height: 750px;
+    background-color: #161616;
+    color:aliceblue;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    line-height: 25px;
+}
+
+h1{
+    color: rgb(90 75 218);
+}
+
+.nav{
+    width: 163px;
+    height: 40px;
+    border-bottom: 1px dashed black;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+.nav1{
+    padding-bottom: 45px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration-line: none;
+}

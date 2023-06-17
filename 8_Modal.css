@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #797777;
+}
+
+.content{
+    position: absolute;
+}
+
+.login{
+    position: absolute;
+    width: 500px;
+    background-color: #fff;
+    border: 0px;
+    border-radius: 7px;
+    left: 40%;
+}
+
+
+h2{
+    text-align: center;
+    padding-top: 25px;
+}
+
+#name{
+    width: 99%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    padding: 10px;
+    
+}
+
+#email{
+    width: 49%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 15px;
+    padding: 15px;
+
+}
+#number{
+    width: 49%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 15px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+#message{
+    width: 98%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    /* color: #797777; */
+}
+
+#sub{
+    margin-top: 15px;
+    padding: 7px 10px;
+    border-radius: 3px;
+    background-color: mediumslateblue;
+    color: aliceblue;
+    border: 0px;
+    margin-bottom: 15px;
+}
+form{
+    margin-left: 10px;
+    font-size: small;
+    color: rgb(111, 108, 108);
+}

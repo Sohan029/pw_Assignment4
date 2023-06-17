@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 10%;
+}
+
+
+.but{
+    margin: 100px 150px;
+    border: 0px;
+    position: relative;
+    padding: 15px 41px;
+    border-radius: 7px;
+    background-color: #f46d6d;
+    font-size: large;
+    font-weight: 700;
+    color: #262525;
+}
+
+span{
+    position: absolute;
+    color: aliceblue;
+    background-color: #262525;
+    bottom: 38px;
+    width: 80px;
+    padding: 9px;
+    border-radius: 7px;
+    font-size: small;
+    font-weight: 600;
+}

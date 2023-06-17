@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+.drop{
+    position: relative;
+    display: inline;
+}
+
+.but{
+    background-color: #f54747;
+    border: 0px;
+    padding: 18px 30px;
+    color: black;
+    font-family: serif;
+    font-weight: 500;
+    font-size: medium;
+    line-height: 0.5;
+}
+
+.content{
+    position: absolute;
+    width: 213px;
+    max-height: 150px;
+    overflow-y: scroll;
+    top: 30px;
+    border: 0.2px solid rgb(206, 200, 200);
+    background-color: #fff;
+    cursor: pointer;
+    /* left: 0px; */
+    display: none;
+}
+
+.drop:hover  .content{
+    display: block;
+}
+
+
+.option{
+    padding: 10px 8px;
+}
+.option:hover{
+    background-color: #d6d2d2;
+}
+
